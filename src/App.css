@@ -1,0 +1,28 @@
+*{
+  background-color: beige;
+}
+
+body{
+  margin: 30px;
+}
+
+.square{
+  background: fff;
+  border: solid;
+  font-size: large;
+  height: 40px;
+  width: 40px;
+  padding: auto;
+  text-align: center;
+}
+
+.game{
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.board{
+
+  margin: auto;
+}
